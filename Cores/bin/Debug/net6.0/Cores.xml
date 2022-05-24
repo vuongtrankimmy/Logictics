@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cores</name>
+    </assembly>
+    <members>
+        <member name="M:Cores.Encrypto.Encrypto.EncryptByAES(System.String)">
+            <summary>  
+            AES encryption algorithm  
+            </summary>  
+            <param name="input">plain string</param>  
+            <returns>string</returns>  
+        </member>
+        <member name="M:Cores.Encrypto.Encrypto.DecryptByAES(System.String)">
+            <summary>  
+            AES decryption  
+            </summary>  
+            <param name="input"> ciphertext byte array</param>  
+            <returns> returns the decrypted string</returns>  
+        </member>
+        <member name="M:Cores.Encrypto.Encrypto.HexStringToByteArray(System.String)">
+            <summary>
+            Convert the specified hex string to a byte array
+            </summary>
+            <param name="s">hexadecimal string (eg "7F 2C 4A" or "7F2C4A")</param>
+            <returns>byte array corresponding to hexadecimal string</returns>
+        </member>
+        <member name="M:Cores.Encrypto.Encrypto.ByteArrayToHexString(System.Byte[])">
+            <summary>
+            Convert a byte array into a formatted hex string
+            </summary>
+            <param name="data">byte array</param>
+            <returns> formatted hexadecimal string</returns>
+        </member>
+        <member name="T:Cores.Exception.CustomExceptionMiddleware.ExceptionMiddleware">
+            <summary>
+            Exception Middle
+            </summary>
+        </member>
+        <member name="M:Cores.Exception.CustomExceptionMiddleware.ExceptionMiddleware.#ctor(Microsoft.AspNetCore.Http.RequestDelegate,Contracts.ILoggerManager)">
+            <summary>
+            Exception construction
+            </summary>
+            <param name="next"></param>
+            <param name="logger"></param>
+        </member>
+        <member name="M:Cores.Exception.CustomExceptionMiddleware.ExceptionMiddleware.InvokeAsync(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Invoke Async
+            </summary>
+            <param name="httpContext"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Cores.Exception.CustomExceptionMiddleware.ExceptionMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext,System.String)">
+            <summary>
+            Handles the exception async.
+            </summary>
+            <param name="context">The context.</param>
+            <param name="message">The message.</param>
+            <returns>A Task.</returns>
+        </member>
+        <member name="M:Cores.Extension.Services.AntiForgery.AntiForgeryService.AbpAntiForgeryOptionService(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Abps the anti forgery option service.
+            </summary>
+            <param name="services">The services.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.AntiForgery.AntiForgeryService.AddAntiforgery(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Antiforgery.IAntiforgery)">
+            <summary>
+            Adds the antiforgery.
+            </summary>
+            <param name="app">The app.</param>
+            <param name="antiforgery">The antiforgery.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.AntiXss.AntiXssService.AntiXss(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Antis the xss.
+            </summary>
+            <param name="app">The app.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.ApiVersion.ApiVersionService.ConfigureApiVersion(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+             <summary>
+            Today in this article, We shall see high-level options to enable REST API Versioning in ASP.NET Core to evolve API for new requirements along with protecting existing API’s capability from any breaking changes.
+            https://www.thecodebuzz.com/api-versioning-in-asp-net-core-with-examples/
+            Install-Package Microsoft.AspNetCore.Mvc.Versioning -Version 5.0.0
+             </summary>
+             <param name="services"></param>
+        </member>
+        <member name="M:Cores.Extension.Services.AppSetting.AppSettingService.ConfigureAppSetting(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Configures the app setting.
+            </summary>
+            <param name="services">The services.</param>
+            <param name="config">The config.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.AutoMapper.AutoMapperService.AddAutoMapper(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Adds the scoped.
+            </summary>
+            <param name="services">The services.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.Cors.CorsService.ConfigureCors(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Configure Cors
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Cores.Extension.Services.CSP.CSPService.AppCsp(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Apps the csp.
+            </summary>
+            <param name="app">The app.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.CustomException.CustomExceptionService.ConfigureCustomExceptionMiddleware(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Configure Custom Exception Middleware
+            </summary>
+            <param name="app"></param>
+        </member>
+        <member name="M:Cores.Extension.Services.CustomException.CustomExceptionService.ConfigureExceptionHandle(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Configures the exception handle.
+            </summary>
+            <param name="app">The app.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.Environment.EnvironmentService.AddEnvironment(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            Adds the environment.
+            </summary>
+            <param name="app">The app.</param>
+            <param name="env">The env.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.Gizp.GzipService.ConfigureGzip(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Configures the gzip.
+            </summary>
+            <param name="services">The services.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.GRPC.GRPCService.ConfigureGRPC(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Configures the g r p c.
+            </summary>
+            <param name="services">The services.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.HealthCheck.HealthCheckService.AddConfigureHealthCheck(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Adds the configure health check.
+            </summary>
+            <param name="services">The services.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.Hsts.HstsService.Hsts(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+             <summary>
+            The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+            Enforce HTTPS in ASP.NET Core.https://docs.microsoft.com/en-us/aspnet/core/security/enforcing-ssl
+             </summary>
+             <param name="services"></param>
+        </member>
+        <member name="M:Cores.Extension.Services.IIS.IISService.ConfigureIISIntegration(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Configure IIS Intergration
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Cores.Extension.Services.Jaeger.JaegerService.AddJaeger(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Adds the jaeger.
+            </summary>
+            <param name="services">The services.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.JWT.JWTService.AuthenticationJwtBearer(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration)">
+             <summary>
+             AuthenticationJwt Bearer
+             Security and Using JWT
+            JSON Web Tokens(JWT) are becoming more popular by the day in web development.It is very easy to implement JWT Authentication due to the.NET Core’s built-in support.JWT is an open standard and it allows us to transmit the data between a client and a server as a JSON object in a secure way.
+            </summary>
+             <param name="services"></param>
+             <param name="config"></param>
+        </member>
+        <member name="M:Cores.Extension.Services.JWT.JWTService.ConfigureAuthenticationJwtBearer(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Configures the authentication jwt bearer.
+            </summary>
+            <param name="app">The app.</param>
+            <param name="config">The config.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.Logger.LoggerService.ConfigureLoggerService(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Configure Loggers Service
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Cores.Extension.Services.Logger.LoggerService.AppLoggerService(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Apps the logger service.
+            </summary>
+            <param name="app">The app.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.MongoDB.MongoDBService.GetEnvironmentVariable(System.String,System.String)">
+            <summary>
+            Gets the environment variable.
+            </summary>
+            <param name="name">The name.</param>
+            <param name="defaultValue">The default value.</param>
+            <returns>A string.</returns>
+        </member>
+        <member name="M:Cores.Extension.Services.MongoDB.MongoDBService.ConfigureArangoDbContext(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Configure ArangoDB Context
+            </summary>
+            <param name="services"></param>
+            <param name="config"></param>
+        </member>
+        <member name="M:Cores.Extension.Services.Newtonsoft.NewtonsoftService.NewtonsoftJson(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Newtonsofts the json.
+            </summary>
+            <param name="services">The services.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.NServiceBus.NServiceBusService.SetupNServiceBus(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Setups the n service bus.
+            </summary>
+            <param name="services">The services.</param>
+            <returns>A Task.</returns>
+        </member>
+        <member name="M:Cores.Extension.Services.ResponseCaching.ResponseCachingService.ConfigurationResponseCaching(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Configurations the response caching.
+            </summary>
+            <param name="services">The services.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.ResponseCaching.ResponseCachingService.AppConfigurationResponseCaching(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Apps the configuration response caching.
+            </summary>
+            <param name="app">The app.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.Scoped.ScropedService.AddConfigurationScoped(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Adds the scoped.
+            </summary>
+            <param name="services">The services.</param>
+        </member>
+        <member name="T:Cores.Extension.Services.ServicesExtension">
+            <summary>
+            Service Extension
+            </summary>
+        </member>
+        <member name="M:Cores.Extension.Services.ServicesExtension.ConfigureTransientService(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Configure Loggers Service
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Cores.Extension.Services.Session.SessionService.ConfigureSession(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Configures the session.
+            </summary>
+            <param name="services">The services.</param>
+        </member>
+        <member name="M:Cores.Extension.Services.Zipkin.ZipkinService.AddZipkin(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Adds the zipkin.
+            </summary>
+            <param name="services">The services.</param>
+        </member>
+        <member name="M:Cores.Extension.Swagger.SwaggerDefaultValues.Apply(Microsoft.OpenApi.Models.OpenApiOperation,Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)">
+            <summary>
+            Applies the filter to the specified operation using the given context.
+            </summary>
+            <param name="operation">The operation to apply the filter to.</param>
+            <param name="context">The current operation filter context.</param>
+        </member>
+        <member name="T:Cores.Extension.Swagger.SwaggerExtension">
+            <summary>
+            Swagger Extension
+            </summary>
+        </member>
+        <member name="M:Cores.Extension.Swagger.SwaggerExtension.AddSwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Add Swagger
+            </summary>
+            <param name="services"></param>
+            <param name="config"></param>
+        </member>
+        <member name="M:Cores.Extension.Swagger.SwaggerExtension.UseCustomSwagger(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Mvc.ApiExplorer.IApiVersionDescriptionProvider)">
+            <summary>
+            Use Custom Swagger
+            </summary>
+            <param name="app"></param>
+            <param name="apiVersion"></param>
+        </member>
+        <member name="M:Cores.Extension.Transient.TransientService.ConfigureTransientService(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Configure Loggers Service
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="T:Cores.FilterAttribute.ModelValidationAttribute">
+            <summary>
+            Model Validation Attribute
+            </summary>
+        </member>
+        <member name="M:Cores.FilterAttribute.ModelValidationAttribute.OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext)">
+            <summary>
+            Called when [action executing].
+            Using ActionFilters to Remove Duplicated Code Filters in ASP.NET Core allows us to run some code prior to or after the specific stage in a request pipeline.Therefore, we can use them to execute validation actions that we need to repeat in our action methods.When we handle a PUT or POST request in our action methods, we need to validate our model object as we did in the Actions part of this article.As a result, that would cause the repetition of our validation code, and we want to avoid that(Basically we want to ///avoid any code repetition as much as we can).
+            </summary>
+            <param name="context">The context.</param>
+            <inheritdoc />
+        </member>
+        <member name="T:Cores.Jwt.JwtMiddleware">
+            <summary>
+            The jwt middleware.
+            </summary>
+        </member>
+        <member name="M:Cores.Jwt.JwtMiddleware.#ctor(Microsoft.AspNetCore.Http.RequestDelegate,Microsoft.Extensions.Options.IOptions{TokenManagement})">
+            <summary>
+            Initializes a new instance of the <see cref="T:Cores.Jwt.JwtMiddleware"/> class.
+            </summary>
+            <param name="next">The next.</param>
+            <param name="tokenManagement">The token management.</param>
+        </member>
+        <member name="M:Cores.Jwt.JwtMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Invokes the.
+            </summary>
+            <param name="context">The context.</param>
+            <returns>A Task.</returns>
+        </member>
+        <member name="M:Cores.Jwt.JwtMiddleware.AttachUserToContext(Microsoft.AspNetCore.Http.HttpContext,System.String)">
+            <summary>
+            Attaches the user to context.
+            </summary>
+            <param name="context">The context.</param>
+            <param name="token">The token.</param>
+        </member>
+        <member name="T:Cores.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Cores.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Cores.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:Cores.ResponseTime.ResponseTimeMiddleware">
+            <summary>
+            tries to measure request processing time
+            </summary>
+        </member>
+        <member name="M:Cores.ResponseTime.ResponseTimeMiddleware.#ctor(Microsoft.AspNetCore.Http.RequestDelegate)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Cores.ResponseTime.ResponseTimeMiddleware.InvokeAsync(Microsoft.AspNetCore.Http.HttpContext)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Cores.ServicesStartup.ServicesStartup.RegisterConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Registers the configuration.
+            </summary>
+            <param name="services">The services.</param>
+            <param name="Configuration">The configuration.</param>
+        </member>
+        <member name="M:Cores.ServicesStartup.ServicesStartup.RegisterApplication(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment,Microsoft.AspNetCore.Antiforgery.IAntiforgery,Microsoft.AspNetCore.Mvc.ApiExplorer.IApiVersionDescriptionProvider,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Registers the application.
+            </summary>
+            <param name="app">The app.</param>
+            <param name="env">The env.</param>
+            <param name="antiforgery">The antiforgery.</param>
+            <param name="apiVersion"></param>
+            <param name="Configuration">The configuration.</param>
+        </member>
+    </members>
+</doc>

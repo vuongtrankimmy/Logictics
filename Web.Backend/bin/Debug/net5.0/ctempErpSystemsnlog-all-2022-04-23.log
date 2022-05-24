@@ -1,0 +1,142 @@
+2022-04-23 16:14:10.1215|60|WARN|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed. 
+2022-04-23 16:14:12.7611|35|WARN|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|No XML encryptor configured. Key {4e3f9f23-8756-4b02-8993-94025a10c229} may be persisted to storage in unencrypted form. 
+2022-04-23 16:14:19.7155|8|WARN|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|The 'Cache-Control' and 'Pragma' headers have been overridden and set to 'no-cache, no-store' and 'no-cache' respectively to prevent caching of this response. Any response that uses antiforgery should not be cached. 
+2022-04-23 16:14:20.5145|8|WARN|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|The 'Cache-Control' and 'Pragma' headers have been overridden and set to 'no-cache, no-store' and 'no-cache' respectively to prevent caching of this response. Any response that uses antiforgery should not be cached. 
+2022-04-23 16:21:32.1303|60|WARN|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed. 
+2022-04-23 16:21:36.9349|8|WARN|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|The 'Cache-Control' and 'Pragma' headers have been overridden and set to 'no-cache, no-store' and 'no-cache' respectively to prevent caching of this response. Any response that uses antiforgery should not be cached. 
+2022-04-23 16:21:37.7021|8|WARN|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|The 'Cache-Control' and 'Pragma' headers have been overridden and set to 'no-cache, no-store' and 'no-cache' respectively to prevent caching of this response. Any response that uses antiforgery should not be cached. 
+2022-04-23 16:23:03.5994|60|WARN|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed. 
+2022-04-23 16:23:07.8187|8|WARN|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|The 'Cache-Control' and 'Pragma' headers have been overridden and set to 'no-cache, no-store' and 'no-cache' respectively to prevent caching of this response. Any response that uses antiforgery should not be cached. 
+2022-04-23 16:23:08.0271|8|WARN|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|The 'Cache-Control' and 'Pragma' headers have been overridden and set to 'no-cache, no-store' and 'no-cache' respectively to prevent caching of this response. Any response that uses antiforgery should not be cached. 
+2022-04-23 16:24:48.5070|60|WARN|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed. 
+2022-04-23 16:24:54.9596|8|WARN|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|The 'Cache-Control' and 'Pragma' headers have been overridden and set to 'no-cache, no-store' and 'no-cache' respectively to prevent caching of this response. Any response that uses antiforgery should not be cached. 
+2022-04-23 16:24:55.1903|8|WARN|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|The 'Cache-Control' and 'Pragma' headers have been overridden and set to 'no-cache, no-store' and 'no-cache' respectively to prevent caching of this response. Any response that uses antiforgery should not be cached. 
+2022-04-23 16:25:29.8912|1|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request. System.TimeoutException: A timeout occurred after 30000ms selecting a server using CompositeServerSelector{ Selectors = MongoDB.Driver.MongoClient+AreSessionsSupportedServerSelector, LatencyLimitingServerSelector{ AllowedLatencyRange = 00:00:00.0150000 }, OperationsCountServerSelector }. Client view of cluster state is { ClusterId : "1", Type : "Unknown", State : "Disconnected", Servers : [{ ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/localhost:27017" }", EndPoint: "Unspecified/localhost:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (99): Cannot assign requested address [::1]:27017
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at MongoDB.Driver.Core.Connections.TcpStreamFactory.Connect(Socket socket, EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.TcpStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2022-04-23T16:25:29.4379743Z", LastUpdateTimestamp: "2022-04-23T16:25:29.4379755Z" }] }.
+   at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedAsync(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServerAsync(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoClient.AreSessionsSupportedAfterServerSelectionAsync(CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoClient.AreSessionsSupportedAsync(CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoClient.StartImplicitSessionAsync(CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSessionAsync[TResult](Func`2 funcAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.IAsyncCursorSourceExtensions.ToListAsync[TDocument](IAsyncCursorSource`1 source, CancellationToken cancellationToken)
+   at Repository.AQL.Query.Page[TEntity](String database, String table, FilterDefinition`1 filter, SortDefinition`1 sort, Int32 page, Int32 pageSize) in D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Repository\AQL\Query.cs:line 28
+   at Repository.Owners.Logictics.Customers.Customer.CustomerRepository.Page[TEntity](FilterDefinition`1 filter, SortDefinition`1 sort, Int32 page, Int32 pageSize) in D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Repository\Owners\Logictics\Customers\Customer\CustomerRepository.cs:line 27
+   at DataAccessLayer.Owners.Logictics.Customers.Customer.CustomerBal.Get() in D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\DataAccessLayer\Owners\Logictics\Customers\Customer\CustomerBal.cs:line 30
+   at Web.Backend.v1.Controllers.Customers.Customer.CustomerController.Get(String _id) in D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Web.Backend\v1\Controllers\Customers\Customer\CustomerController.cs:line 21
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 124
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2022-04-23 16:25:29.9884||DEBUG|LoggerService.LoggerManager.LoggerManager|[Performance] Request to https://localhost:49153/api/v1/Customer took 31168 ms 
+2022-04-23 16:26:06.2030|1|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request. System.TimeoutException: A timeout occurred after 30000ms selecting a server using CompositeServerSelector{ Selectors = MongoDB.Driver.MongoClient+AreSessionsSupportedServerSelector, LatencyLimitingServerSelector{ AllowedLatencyRange = 00:00:00.0150000 }, OperationsCountServerSelector }. Client view of cluster state is { ClusterId : "1", Type : "Unknown", State : "Disconnected", Servers : [{ ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/localhost:27017" }", EndPoint: "Unspecified/localhost:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (99): Cannot assign requested address [::1]:27017
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at MongoDB.Driver.Core.Connections.TcpStreamFactory.Connect(Socket socket, EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.TcpStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2022-04-23T16:26:05.9977722Z", LastUpdateTimestamp: "2022-04-23T16:26:05.9977730Z" }] }.
+   at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedAsync(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServerAsync(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoClient.AreSessionsSupportedAfterServerSelectionAsync(CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoClient.AreSessionsSupportedAsync(CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoClient.StartImplicitSessionAsync(CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSessionAsync[TResult](Func`2 funcAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.IAsyncCursorSourceExtensions.ToListAsync[TDocument](IAsyncCursorSource`1 source, CancellationToken cancellationToken)
+   at Repository.AQL.Query.Page[TEntity](String database, String table, FilterDefinition`1 filter, SortDefinition`1 sort, Int32 page, Int32 pageSize) in D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Repository\AQL\Query.cs:line 28
+   at Repository.Owners.Logictics.Customers.Customer.CustomerRepository.Page[TEntity](FilterDefinition`1 filter, SortDefinition`1 sort, Int32 page, Int32 pageSize) in D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Repository\Owners\Logictics\Customers\Customer\CustomerRepository.cs:line 27
+   at DataAccessLayer.Owners.Logictics.Customers.Customer.CustomerBal.Get() in D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\DataAccessLayer\Owners\Logictics\Customers\Customer\CustomerBal.cs:line 30
+   at Web.Backend.v1.Controllers.Customers.Customer.CustomerController.Get(String _id) in D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Web.Backend\v1\Controllers\Customers\Customer\CustomerController.cs:line 21
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 124
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2022-04-23 16:26:06.2205||DEBUG|LoggerService.LoggerManager.LoggerManager|[Performance] Request to https://localhost:49153/api/v1/Customer took 30205 ms 
+2022-04-23 16:27:18.3126|1|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request. System.TimeoutException: A timeout occurred after 30000ms selecting a server using CompositeServerSelector{ Selectors = MongoDB.Driver.MongoClient+AreSessionsSupportedServerSelector, LatencyLimitingServerSelector{ AllowedLatencyRange = 00:00:00.0150000 }, OperationsCountServerSelector }. Client view of cluster state is { ClusterId : "1", Type : "Unknown", State : "Disconnected", Servers : [{ ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/localhost:27017" }", EndPoint: "Unspecified/localhost:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (99): Cannot assign requested address [::1]:27017
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at MongoDB.Driver.Core.Connections.TcpStreamFactory.Connect(Socket socket, EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.TcpStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2022-04-23T16:27:17.9761404Z", LastUpdateTimestamp: "2022-04-23T16:27:17.9761415Z" }] }.
+   at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedAsync(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServerAsync(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoClient.AreSessionsSupportedAfterServerSelectionAsync(CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoClient.AreSessionsSupportedAsync(CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoClient.StartImplicitSessionAsync(CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSessionAsync[TResult](Func`2 funcAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.IAsyncCursorSourceExtensions.ToListAsync[TDocument](IAsyncCursorSource`1 source, CancellationToken cancellationToken)
+   at Repository.AQL.Query.Page[TEntity](String database, String table, FilterDefinition`1 filter, SortDefinition`1 sort, Int32 page, Int32 pageSize) in D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Repository\AQL\Query.cs:line 28
+   at Repository.Owners.Logictics.Customers.Customer.CustomerRepository.Page[TEntity](FilterDefinition`1 filter, SortDefinition`1 sort, Int32 page, Int32 pageSize) in D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Repository\Owners\Logictics\Customers\Customer\CustomerRepository.cs:line 27
+   at DataAccessLayer.Owners.Logictics.Customers.Customer.CustomerBal.Get() in D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\DataAccessLayer\Owners\Logictics\Customers\Customer\CustomerBal.cs:line 30
+   at Web.Backend.v1.Controllers.Customers.Customer.CustomerController.Get(String _id) in D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Web.Backend\v1\Controllers\Customers\Customer\CustomerController.cs:line 21
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 124
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2022-04-23 16:27:18.3292||DEBUG|LoggerService.LoggerManager.LoggerManager|[Performance] Request to https://localhost:49153/api/v1/Customer took 42574 ms 

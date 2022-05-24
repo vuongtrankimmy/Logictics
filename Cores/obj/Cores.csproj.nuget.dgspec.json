@@ -1,0 +1,652 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Cores\\Cores.csproj": {}
+  },
+  "projects": {
+    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectName": "BusinessLogicLayer",
+        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\BusinessLogicLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.15.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Cores\\Cores.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Cores\\Cores.csproj",
+        "projectName": "Cores",
+        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Cores\\Cores.csproj",
+        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Cores\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+              },
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj"
+              },
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\DataAccessLayer\\DataAccessLayer.csproj"
+              },
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj"
+              },
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\LoggerService\\LoggerService.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\LoggerService\\LoggerService.csproj"
+              },
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "AspNetCoreRateLimit": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "HtmlSanitizer": {
+              "target": "Package",
+              "version": "[7.1.488, )"
+            },
+            "Jaeger.Core": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.HttpsPolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Server.IISIntegration": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Microsoft.IdentityModel": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.15.1, )"
+            },
+            "NWebsec.AspNetCore.Middleware": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Ocelot": {
+              "target": "Package",
+              "version": "[18.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.ReDoc": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "Swashbuckle.Core": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+              },
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj"
+              },
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Localization.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.8, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.15.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj",
+        "projectName": "Helpers",
+        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj",
+        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "zxcvbn-core": {
+              "target": "Package",
+              "version": "[7.0.92, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\LoggerService\\LoggerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\LoggerService\\LoggerService.csproj",
+        "projectName": "LoggerService",
+        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\LoggerService\\LoggerService.csproj",
+        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\LoggerService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj"
+              },
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IdentityModel": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.18.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj"
+              },
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj"
+              },
+              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj": {
+                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.15.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

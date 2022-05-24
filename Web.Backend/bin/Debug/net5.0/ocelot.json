@@ -1,0 +1,28 @@
+{
+    "Routes": [
+        {
+            "DownstreamPathTemplate": "/api/v1/Category",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44359
+                }
+            ],
+            "UpstreamPathTemplate": "/gateway/v1/Category",
+            "UpstreamHttpMethod": [ "GET", "POST", "PUT" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/v1/systems/navigation/web/component",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44359
+                }
+            ],
+            "UpstreamPathTemplate": "/gateway/v1/systems/navigation/web/component",
+            "UpstreamHttpMethod": [ "GET" ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyVersion>22.5.2.113</AssemblyVersion>
+    <FileVersion>22.5.2.113</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entities\Entities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Owners\Logictics\Orders\" />
+    <Folder Include="Owners\Logictics\Roles\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,73 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyVersion>22.5.2.290</AssemblyVersion>
+    <FileVersion>22.5.2.290</FileVersion>
+    <ErrorReport>queue</ErrorReport>
+    <SignAssembly>True</SignAssembly>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Cores\Cores.xml</DocumentationFile>
+    <WarningsAsErrors>$(WarningsAsErrors);NU1605</WarningsAsErrors>
+    <NoWarn>1701;1702;1591</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <WarningsAsErrors>$(WarningsAsErrors);NU1605</WarningsAsErrors>
+    <NoWarn>1701;1702;1591</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="6.0.4" />
+    <PackageReference Include="AspNetCoreRateLimit" Version="4.0.2" />
+    <PackageReference Include="HtmlSanitizer" Version="7.1.488" />
+    <PackageReference Include="Jaeger.Core" Version="1.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.HttpsPolicy" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="5.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Server.IISIntegration" Version="2.2.1" />
+    <PackageReference Include="Microsoft.IdentityModel" Version="7.0.0" />
+    <PackageReference Include="MongoDB.Driver" Version="2.15.1" />
+    <PackageReference Include="NWebsec.AspNetCore.Middleware" Version="3.0.0" />
+    <PackageReference Include="Ocelot" Version="18.0.0" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.3.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.ReDoc" Version="6.3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.3.1" />
+    <PackageReference Include="Swashbuckle.Core" Version="5.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogicLayer\BusinessLogicLayer.csproj" />
+    <ProjectReference Include="..\Contracts\Contracts.csproj" />
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj" />
+    <ProjectReference Include="..\Helpers\Helpers.csproj" />
+    <ProjectReference Include="..\LoggerService\LoggerService.csproj" />
+    <ProjectReference Include="..\Repository\Repository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

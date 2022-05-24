@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <UserSecretsId>040b5f8d-2695-4123-9477-47523c9836ad</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Web.Backend\Web.Backend.xml</DocumentationFile>
+    <AssemblyVersion>22.5.2.304</AssemblyVersion>
+    <FileVersion>22.5.2.304</FileVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <NoWarn>1701;1702;1591</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <NoWarn>1701;1702;1591</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="5.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.15.1" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cores\Cores.csproj" />
+  </ItemGroup>
+
+</Project>

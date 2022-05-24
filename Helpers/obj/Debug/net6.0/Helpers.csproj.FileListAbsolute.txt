@@ -1,0 +1,17 @@
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\bin\Debug\net6.0\Helpers.deps.json
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\bin\Debug\net6.0\Helpers.dll
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\bin\Debug\net6.0\Helpers.pdb
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\bin\Debug\net6.0\Entities.dll
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\bin\Debug\net6.0\Entities.pdb
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\bin\Debug\net6.0\en-US\Entities.resources.dll
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\bin\Debug\net6.0\vi-VN\Entities.resources.dll
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\obj\Debug\net6.0\Helpers.csproj.AssemblyReference.cache
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\obj\Debug\net6.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfoInputs.cache
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfo.cs
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\obj\Debug\net6.0\Helpers.csproj.CoreCompileInputs.cache
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\obj\Debug\net6.0\Helpers.csproj.CopyComplete
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\obj\Debug\net6.0\Helpers.dll
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\obj\Debug\net6.0\refint\Helpers.dll
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\obj\Debug\net6.0\Helpers.pdb
+D:\Working\03-Project\07-Hanh\02-Project\Logictics_v2\Api\Logictics\Helpers\obj\Debug\net6.0\ref\Helpers.dll

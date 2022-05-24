@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyVersion>22.5.2.175</AssemblyVersion>
+    <FileVersion>22.5.2.175</FileVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <NoWarn>1701;1702;0693</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <NoWarn>1701;1702;0693</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Owners\Logictics\Navigations\**" />
+    <EmbeddedResource Remove="Owners\Logictics\Navigations\**" />
+    <None Remove="Owners\Logictics\Navigations\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.15.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Contracts\Contracts.csproj" />
+    <ProjectReference Include="..\Entities\Entities.csproj" />
+    <ProjectReference Include="..\Helpers\Helpers.csproj" />
+  </ItemGroup>
+
+</Project>

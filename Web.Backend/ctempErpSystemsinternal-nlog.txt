@@ -1,0 +1,25 @@
+2022-04-23 16:12:32.4102 Info Message Template Auto Format enabled
+2022-04-23 16:12:32.5360 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-23 16:12:32.6131 Info Adding target FileTarget(Name=allfile)
+2022-04-23 16:12:32.6259 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-23 16:12:32.6676 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-04-23 16:14:05.2569 Info Message Template Auto Format enabled
+2022-04-23 16:14:05.3146 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-23 16:14:05.4158 Info Adding target FileTarget(Name=allfile)
+2022-04-23 16:14:05.4340 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-23 16:14:05.4814 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-04-23 16:21:27.9850 Info Message Template Auto Format enabled
+2022-04-23 16:21:28.0834 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-23 16:21:28.1709 Info Adding target FileTarget(Name=allfile)
+2022-04-23 16:21:28.1820 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-23 16:21:28.2216 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-04-23 16:23:01.4925 Info Message Template Auto Format enabled
+2022-04-23 16:23:01.5841 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-23 16:23:01.6471 Info Adding target FileTarget(Name=allfile)
+2022-04-23 16:23:01.6595 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-23 16:23:01.7003 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-04-23 16:24:44.6802 Info Message Template Auto Format enabled
+2022-04-23 16:24:44.7669 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-23 16:24:44.8545 Info Adding target FileTarget(Name=allfile)
+2022-04-23 16:24:44.8680 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-23 16:24:44.9382 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/app/bin/Debug/net5.0/NLog.config
