@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/cx/e2nq4T9k6pwY1GYD5tviN5yThMjLJCSeea/GG6E=",
+  "Hash": "hFjpDQI3SvRfhVJ1b9Q+zzrn7Vi7n3eol0f7PKiRgW0=",
   "Source": "Web.Backend",
   "BasePath": "_content/Web.Backend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Web.Backend\\wwwroot",
       "Source": "Web.Backend",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\css\\modest.css",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\css\\modest.css",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "css/modest.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\modest.css"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.0.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.0.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.0.html",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.0.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.0.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.0.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.0.md",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.0.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.1.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.1.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.1.html",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.1.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.1.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.1.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.1.md",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.1.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.2.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.2.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.2.html",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.2.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.2.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.2.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.2.md",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.2.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.3.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.3.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.3.html",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.3.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.3.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.3.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.3.md",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.3.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.4.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.4.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.4.html",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.4.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.4.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.4.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.4.md",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.4.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.5.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.5.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.5.html",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.5.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.5.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.5.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.5.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.5.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.6.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.6.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.6.html",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.6.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.6.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.6.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.6.md",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.6.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.7.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.7.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.7.html",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.7.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.7.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.7.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.7.md",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.7.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.8.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.8.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.8.html",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.8.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.8.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.8.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.8.md",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.8.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.9.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.9.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.9.html",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.9.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.9.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.9.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v1.9.md",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v1.9.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v2.0.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v2.0.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v2.0.html",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v2.0.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v2.0.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v2.0.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v2.0.md",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v2.0.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v2.1.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v2.1.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v2.1.html",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v2.1.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v2.1.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v2.1.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v2.1.md",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v2.1.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.0.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.0.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v3.0.html",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v3.0.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.0.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.0.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v3.0.md",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v3.0.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.1.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.1.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v3.1.html",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v3.1.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.1.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.1.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v3.1.md",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v3.1.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.1.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.1.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v3.2.1.html",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v3.2.1.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.1.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.1.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v3.2.1.md",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v3.2.1.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.2.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.2.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v3.2.2.html",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v3.2.2.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.2.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.2.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v3.2.2.md",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v3.2.2.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v3.2.html",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v3.2.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v3.2.md",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v3.2.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.3.4.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.3.4.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v3.3.4.html",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v3.3.4.html"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.3.4.md",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.3.4.md",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "documents/changelog/Changelog_v3.3.4.md",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\changelog\\Changelog_v3.3.4.md"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\swagger\\favicon.ico",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger\\favicon.ico",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "swagger/favicon.ico",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\swagger\\favicon.ico"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\swagger\\favicon-16x16.ico",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger\\favicon-16x16.ico",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "swagger/favicon-16x16.ico",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\swagger\\favicon-16x16.ico"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\swagger\\favicon-16x16.png",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger\\favicon-16x16.png",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "swagger/favicon-16x16.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\swagger\\favicon-16x16.png"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\swagger\\favicon-32x32.png",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger\\favicon-32x32.png",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "swagger/favicon-32x32.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\swagger\\favicon-32x32.png"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\swagger\\logo.png",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger\\logo.png",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "swagger/logo.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\swagger\\logo.png"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\custom.css",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\custom.css",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "swagger-ui/custom.css",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\swagger-ui\\custom.css"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\custom.js",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\custom.js",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "swagger-ui/custom.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\swagger-ui\\custom.js"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\favicon .ico",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\favicon .ico",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "swagger-ui/resources/favicon .ico",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\swagger-ui\\resources\\favicon .ico"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\favicon.ico",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\favicon.ico",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "swagger-ui/resources/favicon.ico",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\swagger-ui\\resources\\favicon.ico"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\favicon-16x16.ico",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\favicon-16x16.ico",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "swagger-ui/resources/favicon-16x16.ico",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\swagger-ui\\resources\\favicon-16x16.ico"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\favicon-16x16.png",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\favicon-16x16.png",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "swagger-ui/resources/favicon-16x16.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\swagger-ui\\resources\\favicon-16x16.png"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\favicon-32x32.png",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\favicon-32x32.png",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "swagger-ui/resources/favicon-32x32.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\swagger-ui\\resources\\favicon-32x32.png"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\logo.png",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\logo.png",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "swagger-ui/resources/logo.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\swagger-ui\\resources\\logo.png"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\Swagger-Custom.js",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\Swagger-Custom.js",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "swagger-ui/Swagger-Custom.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\swagger-ui\\Swagger-Custom.js"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\translator\\china\\china.js",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\translator\\china\\china.js",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "swagger-ui/translator/china/china.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\swagger-ui\\translator\\china\\china.js"
     },
     {
-      "Identity": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\test.html",
+      "Identity": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\test.html",
       "SourceId": "Web.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\wwwroot\\",
+      "ContentRoot": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\",
       "BasePath": "_content/Web.Backend",
       "RelativePath": "test.html",
       "AssetKind": "All",

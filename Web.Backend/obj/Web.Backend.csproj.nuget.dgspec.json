@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\Web.Backend.csproj": {}
+    "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\Web.Backend.csproj": {}
   },
   "projects": {
-    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+    "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectUniqueName": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
         "projectName": "BusinessLogicLayer",
-        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
-        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
-        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\BusinessLogicLayer\\obj\\",
+        "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\TranVuong\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\BusinessLogicLayer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TranVuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Entities\\Entities.csproj"
               }
             }
           }
@@ -49,7 +54,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,21 +64,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj": {
+    "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj",
-        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
-        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\obj\\",
+        "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\TranVuong\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TranVuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -80,14 +90,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Entities\\Entities.csproj"
               }
             }
           }
@@ -113,7 +124,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -122,21 +134,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Cores\\Cores.csproj": {
+    "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Cores\\Cores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Cores\\Cores.csproj",
+        "projectUniqueName": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Cores\\Cores.csproj",
         "projectName": "Cores",
-        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Cores\\Cores.csproj",
-        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
-        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Cores\\obj\\",
+        "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Cores\\Cores.csproj",
+        "packagesPath": "C:\\Users\\TranVuong\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Cores\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TranVuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -144,29 +160,30 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
               },
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Contracts\\Contracts.csproj"
               },
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Helpers\\Helpers.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Helpers\\Helpers.csproj"
               },
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\LoggerService\\LoggerService.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\LoggerService\\LoggerService.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\LoggerService\\LoggerService.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\LoggerService\\LoggerService.csproj"
               },
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Repository\\Repository.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Repository\\Repository.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Repository\\Repository.csproj"
               }
             }
           }
@@ -280,7 +297,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -289,21 +307,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
-        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\DataAccessLayer\\obj\\",
+        "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\TranVuong\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TranVuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -311,20 +333,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
               },
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Contracts\\Contracts.csproj"
               },
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Helpers\\Helpers.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Helpers\\Helpers.csproj"
               }
             }
           }
@@ -350,7 +373,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -359,21 +383,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj": {
+    "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
-        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\obj\\",
+        "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\TranVuong\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TranVuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -381,6 +409,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -418,7 +447,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -427,21 +457,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj": {
+    "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Helpers\\Helpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj",
+        "projectUniqueName": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Helpers\\Helpers.csproj",
         "projectName": "Helpers",
-        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj",
-        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
-        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\obj\\",
+        "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Helpers\\Helpers.csproj",
+        "packagesPath": "C:\\Users\\TranVuong\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Helpers\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TranVuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -449,14 +483,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Entities\\Entities.csproj"
               }
             }
           }
@@ -486,7 +521,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -495,21 +531,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\LoggerService\\LoggerService.csproj": {
+    "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\LoggerService\\LoggerService.csproj",
+        "projectUniqueName": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\LoggerService\\LoggerService.csproj",
         "projectName": "LoggerService",
-        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\LoggerService\\LoggerService.csproj",
-        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
-        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\LoggerService\\obj\\",
+        "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\LoggerService\\LoggerService.csproj",
+        "packagesPath": "C:\\Users\\TranVuong\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\LoggerService\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TranVuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -517,17 +557,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Contracts\\Contracts.csproj"
               },
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Entities\\Entities.csproj"
               }
             }
           }
@@ -565,7 +606,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -574,21 +616,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Repository\\Repository.csproj": {
+    "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
-        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Repository\\obj\\",
+        "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\TranVuong\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TranVuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -596,20 +642,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Contracts\\Contracts.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Contracts\\Contracts.csproj"
               },
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Entities\\Entities.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Entities\\Entities.csproj"
               },
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Helpers\\Helpers.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Helpers\\Helpers.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Helpers\\Helpers.csproj"
               }
             }
           }
@@ -635,7 +682,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -644,21 +692,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\Web.Backend.csproj": {
+    "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\Web.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\Web.Backend.csproj",
+        "projectUniqueName": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\Web.Backend.csproj",
         "projectName": "Web.Backend",
-        "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\Web.Backend.csproj",
-        "packagesPath": "C:\\Users\\VuongTran\\.nuget\\packages\\",
-        "outputPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Web.Backend\\obj\\",
+        "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\Web.Backend.csproj",
+        "packagesPath": "C:\\Users\\TranVuong\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\VuongTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TranVuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -666,14 +718,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Cores\\Cores.csproj": {
-                "projectPath": "D:\\Working\\03-Project\\07-Hanh\\02-Project\\Logictics_v2\\Api\\Logictics\\Cores\\Cores.csproj"
+              "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Cores\\Cores.csproj": {
+                "projectPath": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Cores\\Cores.csproj"
               }
             }
           }
@@ -707,7 +761,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -719,7 +774,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

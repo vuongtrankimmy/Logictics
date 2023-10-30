@@ -1,0 +1,233 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\css\\modest.css",
+      "PackagePath": "staticwebassets\\css\\modest.css"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.0.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.0.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.0.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.0.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.1.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.1.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.1.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.1.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.2.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.2.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.2.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.2.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.3.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.3.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.3.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.3.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.4.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.4.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.4.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.4.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.5.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.5.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.5.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.5.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.6.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.6.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.6.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.6.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.7.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.7.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.7.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.7.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.8.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.8.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.8.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.8.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.9.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.9.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v1.9.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v1.9.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v2.0.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v2.0.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v2.0.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v2.0.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v2.1.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v2.1.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v2.1.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v2.1.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.0.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v3.0.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.0.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v3.0.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.1.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v3.1.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.1.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v3.1.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.1.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v3.2.1.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.1.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v3.2.1.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.2.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v3.2.2.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.2.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v3.2.2.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v3.2.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.2.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v3.2.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.3.4.html",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v3.3.4.html"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\documents\\changelog\\Changelog_v3.3.4.md",
+      "PackagePath": "staticwebassets\\documents\\changelog\\Changelog_v3.3.4.md"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\Swagger-Custom.js",
+      "PackagePath": "staticwebassets\\swagger-ui\\Swagger-Custom.js"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\custom.css",
+      "PackagePath": "staticwebassets\\swagger-ui\\custom.css"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\custom.js",
+      "PackagePath": "staticwebassets\\swagger-ui\\custom.js"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\favicon .ico",
+      "PackagePath": "staticwebassets\\swagger-ui\\resources\\favicon .ico"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\favicon-16x16.ico",
+      "PackagePath": "staticwebassets\\swagger-ui\\resources\\favicon-16x16.ico"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\swagger-ui\\resources\\favicon-16x16.png"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\swagger-ui\\resources\\favicon-32x32.png"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\favicon.ico",
+      "PackagePath": "staticwebassets\\swagger-ui\\resources\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\resources\\logo.png",
+      "PackagePath": "staticwebassets\\swagger-ui\\resources\\logo.png"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger-ui\\translator\\china\\china.js",
+      "PackagePath": "staticwebassets\\swagger-ui\\translator\\china\\china.js"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger\\favicon-16x16.ico",
+      "PackagePath": "staticwebassets\\swagger\\favicon-16x16.ico"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\swagger\\favicon-16x16.png"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\swagger\\favicon-32x32.png"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger\\favicon.ico",
+      "PackagePath": "staticwebassets\\swagger\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\swagger\\logo.png",
+      "PackagePath": "staticwebassets\\swagger\\logo.png"
+    },
+    {
+      "Id": "D:\\Working\\01-Project\\PERSONAL\\02-Hanh\\Logictic_git\\Logictics\\Web.Backend\\wwwroot\\test.html",
+      "PackagePath": "staticwebassets\\test.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Web.Backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Web.Backend.props",
+      "PackagePath": "build\\Web.Backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Web.Backend.props",
+      "PackagePath": "buildMultiTargeting\\Web.Backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Web.Backend.props",
+      "PackagePath": "buildTransitive\\Web.Backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
